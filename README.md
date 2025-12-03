@@ -72,9 +72,6 @@ It demonstrates the process of cleaning data, analyzing trends, and building mea
 ### Afaque Azam
 B.Tech Student | Data Analyst Learner | Python & ML Enthusiast
 
-📧 Email: you can add your email here
-🔗 GitHub: https://github.com/YOUR_USERNAME
-
 ## ⭐ Support
 
 If you like this project, don’t forget to ⭐ star the repository!
